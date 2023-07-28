@@ -1,0 +1,41 @@
+﻿BANSAL INSTIUTE OF ENGINEERING AND TECHNOLOGY LUCKNOW
+
+PROJECT TITLE
+
+[SMART HELMET]
+
+
+OBJECTIVE:-
+The main purpose of smart helmet is to provide safety for the rider in a smart way and prevent accidents on roads.
+
+PROJECT DESCRIPTION:-
+Smart helmet is based on realworld problem.It is a IOT based project.This can be implemented by using eye blink detection,open and close glass feature.This make it not only a smart helmet but also a feature of smart bike because it is compulsory to wear helmet,without which the switch of the bike can not start.
+
+SOFTWARE & HARDWARE REQUIREMENT:-
+    • Arduino                                             
+    • Eye blink sensor
+    • Dc motor
+    • Piezo buzzer
+    • Relay module
+    • RF transmitter and receiver module
+    • Hc-05 bluethooth module
+    • Batteries
+    • Laptop
+    • Arduino IDE
+    • L298N – motor driver
+    • Bump Switch
+
+
+FUTURE SCOPE:-
+We can implement various sensors on the helmet such as alcohol quantity measurement sensor ,Accelerometer,GPS,Position sensor and many more to measure various activities of rider.
+In the future rider will ne more safe and no accidents will occur.
+
+CONCLUSION:-
+The designed SMART HELMET ensures the safety of rider by making it necessary to wear helmet
+if biker violate this prime safety rule, the proposed system will prevent the rider from starting the bike.It also ensures that the rider is not sleeping while driving if rider is sleeping then it will produce the sound to prevent the accident.
+
+
+
+
+
+                 
